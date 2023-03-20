@@ -1,8 +1,5 @@
 # Little Bonkers - Proof of play game for Solana.
 
-<center>
-![Little Bonkers](https://littlebonkers.xyz/wp-content/uploads/2023/01/cropped-Little_Bonkers_Logo.png)
-</center>
 
 ## Official Links
 
