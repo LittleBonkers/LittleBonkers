@@ -1,6 +1,8 @@
 # Little Bonkers - Proof of play game for Solana.
 
+<center>
 ![Little Bonkers](https://littlebonkers.xyz/wp-content/uploads/2023/01/cropped-Little_Bonkers_Logo.png)
+</center>
 
 ## Official Links
 
@@ -58,39 +60,3 @@ This makes the game sustainable and helps decentralize the network.
 
 Play Little Bonkers today and join us on our mission to bring gaming and the Solana ecosystem together!
 
-# Client install instructions. 
-
-You don't need to install the client to play. To play, just go to https://play.littlebonkers.xyz from inside your Phantom Wallet.
-
-If you want to run a copy of the client just to test it or explore it, you can do so following the these instructions.
-
-## Prerequisites
-
-Node.js and npm should be installed on your machine.
-
-## Installation
-
-Clone the repository to your local machine using the command:
-
-    git clone https://github.com/LittleBonkers/Little-Bonkers.git
-
-Navigate to the project directory using the command:
-
-    cd Little-Bonkers
-
-Install the dependencies by running the following command:
-
-    npm install
-
-Rename the .env.example file to .env and update the values of the variables accordingly.
-
-Start the application using the following command:
-
-    sql
-    npm start
-    
-The application will be accessible at http://localhost:3000.
-
-That's it! You should now be able to run the Little Bonkers application on your local machine. If you encounter any issues, please feel free to reach out on twitter.
-  
-  
